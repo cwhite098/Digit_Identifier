@@ -12,7 +12,9 @@ Visualise items from the dataset and manipulate the dataset to be more user frie
 Principle Components Analysis,  
 K-nearest Neighbour,  
 Decision trees,  
-and more.
+and more.  
+  
+More details on the implementation can be found in the included .pdf file.
 
 ## Usage
 
