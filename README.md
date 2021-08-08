@@ -1,7 +1,7 @@
 ![centroids](/centroid_vis.png)
 
 # Digit_Identifier
-Using MATLAB to classify and analyse a dataset of hand-drawn digits
+Using MATLAB to classify and analyse a dataset of hand-drawn digits for my Data Science module for University
 
 ## Aims
 To use MATLAB to train and test classification algorithms such as KNN, PCA and decision trees.  
